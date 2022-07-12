@@ -11,4 +11,10 @@
     <ProjectReference Include="..\UniversalCNAB.Domain\UniversalCNAB.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>

@@ -10,4 +10,10 @@
     <ProjectReference Include="..\UniversalCNAB.CrossCutting\UniversalCNAB.CrossCutting.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\UniversalCNAB_API\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
